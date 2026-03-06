@@ -14,3 +14,4 @@ La majorité des electrolyseurs ont une table d'échange modbus similaire pour l
 Les autres adresses sont à adapter en fonction du modèle utilisé 
 
 
+<img width="796" height="1145" alt="HA" src="https://github.com/user-attachments/assets/ab519428-f402-4076-921e-94eb43b0f852" />
