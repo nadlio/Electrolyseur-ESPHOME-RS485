@@ -13,5 +13,7 @@ GND du coté A et B relié au GND de l'electrolyseur
 La majorité des électrolyseurs ont une table d'échange modbus similaire pour les adresses de type température , electrolyse , pH ...
 Les autres adresses sont à adapter en fonction du modèle utilisé 
 
+Voici un exemple de carte Homeassistant :
+
 
 <img width="796" height="1145" alt="HA" src="https://github.com/user-attachments/assets/ab519428-f402-4076-921e-94eb43b0f852" />
