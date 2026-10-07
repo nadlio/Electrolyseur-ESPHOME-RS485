@@ -16,4 +16,5 @@ Les autres adresses sont à adapter en fonction du modèle utilisé
 Voici un exemple de carte Homeassistant :
 
 
-<img width="796" height="1145" alt="HA" src="https://github.com/user-attachments/assets/ab519428-f402-4076-921e-94eb43b0f852" />
+<img width="340" height="600" alt="Capture d&#39;écran 2026-10-07 224356" src="https://github.com/user-attachments/assets/48079c49-9cbb-4b02-9f51-1e7bc3150754" />
+
