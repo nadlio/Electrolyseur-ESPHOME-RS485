@@ -1,7 +1,7 @@
 # Electrolyseur-ESPHOME-RS485
-Control electrolyseur avec un ESP32 en liaison modbus
+Control electrolyseur avec un ESP32 en liaison modbus RACER , sans sonde pH ou ORP
 
-Code avec un ESP32 C6 , mais peut être utilisé avec tout type d'ESP32 , il faut adapter le type de carte utilisée dans board:
+Code avec un ESP32-C3 , mais peut être utilisé avec tout type d'ESP32 , il faut adapter le type de carte utilisée dans board:
 
 Valable sur la plus part des électrolyseur ayant une entrée accessible en modbus : Racer , Ibiza , Majestic , DuoSalt ..
 
